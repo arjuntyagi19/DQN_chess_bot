@@ -1,1 +1,2 @@
-# DQN_chess_bot
+# dqn-chess
+ 
