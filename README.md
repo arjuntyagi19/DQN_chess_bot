@@ -48,6 +48,5 @@ The bot is trained using a **Deep Q-Network** that:
 
 ---
 
-## 📂 Project Structure
 
  
